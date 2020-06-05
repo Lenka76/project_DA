@@ -1,4 +1,4 @@
-# projekt_DA
+# project_DA
 Code for cleaning data for my project at Digital academy: Data
 
 The main topic of my student project is how COVID-19 affected distribution of medication to Czech Republic. I was comparing datas 
